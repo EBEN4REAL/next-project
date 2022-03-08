@@ -1,0 +1,64 @@
+.homecover {
+  width: 100%;
+  padding: 5px;
+  height: auto;
+}
+
+.homenavlink {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: fit-content;
+}
+
+.homenavlinkcover > svg {
+  fill: #8d8d8d;
+}
+
+.homenavlinkcover {
+  width: fit-content;
+  align-items: center;
+  justify-content: center;
+  padding: 5px 0 0 0;
+}
+
+.homenavlinktext {
+  text-transform: uppercase;
+  color: #8d8d8d;
+  font-weight: 500;
+  font-size: 12px;
+}
+
+.homecontent {
+  width: 100%;
+  height: auto;
+  background: #fff;
+  border-radius: 3px;
+  padding: 9px 15px;
+  margin: 0 0 50px 0;
+}
+.hometopcontent {
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.hometopcontenttitle {
+  color: #272727;
+  font-size: 13px;
+  padding: 6px 0;
+  font-weight: 500;
+}
+
+.homeiconcover {
+  fill: #8d8d8d;
+  padding: 0 6px;
+}
+
+.hometopicon {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
